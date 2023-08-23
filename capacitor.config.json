@@ -1,0 +1,8 @@
+{
+  "appId": "food.order.exam",
+  "appName": "food-order-exam",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

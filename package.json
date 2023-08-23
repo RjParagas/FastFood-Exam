@@ -1,0 +1,37 @@
+{
+  "name": "food-order-exam",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "ionic:build": "npm run build",
+    "ionic:serve": "vite dev --host"
+  },
+  "dependencies": {
+    "@capacitor/android": "5.2.3",
+    "@capacitor/app": "5.0.6",
+    "@capacitor/cli": "5.2.3",
+    "@capacitor/core": "5.2.3",
+    "@capacitor/haptics": "5.0.6",
+    "@capacitor/keyboard": "5.0.6",
+    "@capacitor/status-bar": "5.0.6",
+    "framework7": "^8.3.0",
+    "framework7-icons": "^5.0.5",
+    "framework7-vue": "^8.3.0",
+    "konsta": "^2.0.0",
+    "swiper": "^10.2.0",
+    "vue-router": "^4.2.4",
+    "vue-star-rating": "^2.1.0",
+    "vue-swipe-actions": "^2.0.0-beta.20",
+    "vue3-star-ratings": "^2.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.28",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.6"
+  }
+}

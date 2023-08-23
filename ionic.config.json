@@ -1,0 +1,7 @@
+{
+  "name": "food-order-exam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
